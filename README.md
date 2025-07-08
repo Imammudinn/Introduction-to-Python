@@ -3,6 +3,7 @@ Program ini bertujuan untuk menerima input dari pengguna berupa nama mahasiswa, 
 Program akan menampilkan tipe data dari setiap input.
 
 Program akan menggunakan percabangan if-elif-else untuk menentukan kategori nilai berdasarkan rentang nilai berikut:
+    
     85–100 → A (Sangat Baik)
     75–84 → B (Baik)
     60–74 → C (Cukup)
